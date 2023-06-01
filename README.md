@@ -34,7 +34,7 @@ SQL Queries used for the Phone project on MySQL
 | 10 statements for Updating | Added 1 SQL files that contains Update_statements | 
 | 10 statements for Deletions | Added 1 SQL files that contains Delete_statements |
 | 5 alter table. | Added 1 SQL files that contains alteration of tables Alter_Statements |
-| 1 big statement to join all tables in the database | Implementation here |
+| 1 big statement to join all tables in the database | Added 1 SQL files that joins all tables from DB |
 | 5 statements with left, right, inner, outer joins. | Implementation here |
 | 7 statements with aggregate functions and group by and without having | Implementation here |
 | 7 statements with aggregate functions and group by and with having | Implementation here |
