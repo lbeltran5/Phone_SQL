@@ -1,7 +1,7 @@
 # Phone_SQL
 SQL Queries used for the Phone project on MySQL
 
-<sup>Home Task Requirements for SQL </sup>
+<sup>Home Task Requirements for SQL using MySQL</sup>
 
 
                                             SUBJECT: Phone
