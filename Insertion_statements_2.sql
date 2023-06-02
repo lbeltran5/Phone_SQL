@@ -4,7 +4,7 @@ VALUES (2, 'Apple');
 INSERT INTO country (country_id, country_name)
 VALUES (2, 'United States');
 
-INSERT INTO operatingsystem (os_id, os_name)
+INSERT INTO operatingsystem (os_id, opeating_sys_name)
 VALUES (2, 'iOS');
  
 INSERT INTO phone (phone_id, brand_id, os_id, phone_model, release_year, price)
@@ -14,7 +14,7 @@ INSERT INTO feature (feature_id, feature_name)
 VALUES (2, 'Face ID');
 
 INSERT INTO phone_feature (phone_id, feature_id)
-VALUES (2, 1);
+VALUES (2, 2);
 
 INSERT INTO processor (processor_id, processor_name, cores, clock_speed)
 VALUES (2, 'A14 Bionic', 6, 3.1);

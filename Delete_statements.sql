@@ -17,3 +17,7 @@ WHERE display_id = 1;
 
 DELETE FROM Battery
 WHERE battery_id = 1;
+
+DELETE FROM brand
+WHERE brand_id = 3;
+
