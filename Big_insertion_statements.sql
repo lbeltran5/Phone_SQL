@@ -24,7 +24,7 @@ VALUES (1, 'Android 13'),
        (3, 'Android 13'),
        (4, 'Android 12'),
        (5, 'Android 10'),
-       (6, 'Androind 10'),
+       (6, 'Android 10'),
        (7, 'Android 11'),
        (8, 'Androdi 12');
 
@@ -86,7 +86,7 @@ VALUES (1, 1, 6.5, '2560 x 1440'),
        (5, 5, 5.5, '1280 x 720'),
        (6, 6, 6.0, '1920 x 1080'),
        (7, 7, 5.9, '1920 x 1080'),
-       (8, 8, 5.5, '1280 x 720)');
+       (8, 8, 5.5, '1280 x 720');
 
 INSERT INTO battery (battery_id, phone_id, capacity)
 VALUES (1, 1, 5500),

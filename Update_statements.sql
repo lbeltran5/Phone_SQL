@@ -15,16 +15,12 @@ SET phone_model = 'Galaxy S21'
 WHERE phone_id = 1;
 
 UPDATE phone
-SET release_year = 2022
-WHERE phone_id = 1;
-
-UPDATE phone
 SET price = 899.99
 WHERE phone_id = 1;
 
 UPDATE feature
 SET feature_name = 'Wireless Charging'
-WHERE feature_id = 1;
+WHERE feature_id = 2;
 
 UPDATE camera
 SET megapixels = 64.0
